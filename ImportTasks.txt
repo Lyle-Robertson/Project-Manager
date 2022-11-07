@@ -1,0 +1,51 @@
+Project name:	Robertson House
+Project number:	1
+Building type:	House
+Project address:	13,Sunbird,Park
+ERF number:		45614
+Total Cost:		R486922.0
+Total Paid:		R1210.0
+Due Date:		07/12/2022
+Customer
+Name:			Lyle Robertson
+Number:		061515251
+Email:		customer@gmail.com
+Address:		customerHouse
+Architect
+Name:			Sol amen
+Number:		0514654648
+Email:		architect@gmail.com
+Address:		architectHouse
+Builder
+Name:			Joh sure
+Number:		0156484648
+Email:		builder@gmail.com
+Address:		builderHouse
+Completion Status:Complete
+Completion Date:	today
+
+Project name:	Erik House
+Project number:	2
+Building type:	House
+Project address:	69,ladybug,Park
+ERF number:		46546
+Total Cost:		R4564.0
+Total Paid:		R4546.0
+Due Date:		06/08/2022
+Customer
+Name:			Nick Cole
+Number:		0628123118
+Email:		NickCole@gmail.com
+Address:		Nick,Cole's,house
+Architect
+Name:			Ed Ward
+Number:		0612253664
+Email:		Edward@gmail.com
+Address:		Edwards,House
+Builder
+Name:			Bob The'Builder
+Number:		061523584
+Email:		BobTheBuilder@gmail.com
+Address:		Bob's,House
+Completion Status:incomplete
+Completion Date:	
